@@ -1,0 +1,76 @@
+*{margin: 0; padding: 8px; margin-left: 13px; font-size: 18px;}
+
+
+.main{}
+.reg_form{ 
+    width: 60%;
+    margin: 0 auto;
+    background: rgb(243 150 150);
+
+}
+
+.container{
+    padding: 16px;
+}
+.container h2{font-size: 60px;}
+.container p{
+    font-size: 25px;
+    font-family: fangsong;
+}
+input[type="text"], input[type="password"]{
+    width: 91%;
+    padding: 31px;
+    margin: 8px 0 22px 0;
+    display: inline-block;
+    border: none;
+    background: #f1f1f1;
+    border-bottom: 2px solid rgb(158, 155, 155);
+    margin-left: 15px;
+    border-radius: 26px;
+    
+}
+
+input[type="text"]:focus, input[type="password"]:focus{
+   background-color: #ddd;
+   outline: none;
+  
+}
+
+.register{
+    background: rgb(93 232 226);
+    color: #fb0202;
+    padding: 20px;
+    border: 1px solid black;
+    cursor: pointer;
+    width: 50%;
+    border-radius: 20px;
+    font-size: 24px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
